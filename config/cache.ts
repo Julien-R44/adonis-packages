@@ -28,7 +28,7 @@ const cacheConfig = defineConfig({
   /**
    * Grace period is 2 hours. Meaning, we gonna keep serving the
    * old value for 2 hours, if we are unable to fetch the new
-   * value from the API ( Rate limit, Github / NPM down etc... ? )
+   * value from the API ( Rate limit, Github / NPM down etc...? )
    */
   gracePeriod: {
     enabled: true,
