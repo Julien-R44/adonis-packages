@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repository has been moved to [adonisjs-community/adonis-packages](https://github.com/adonisjs-community/adonis-packages)
+
 ![](./public/preview.png)
 
 <div align="center">
